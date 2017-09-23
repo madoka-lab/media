@@ -1,0 +1,7 @@
+<svg width="480" height="120" viewBox="0 0 480 120" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#e91e63">
+    <circle cx="80" cy="60" r="10" />
+    <circle cx="400" cy="60" r="10" />
+  </g>
+  <text x="240" y="60" font-family="&quot;Rogliano&quot;" font-size="32" style="font-feature-settings: &quot;ss01&quot;;" text-anchor="middle" dominant-baseline="middle">Madoka Lab</text>
+</svg>
