@@ -1,6 +1,6 @@
 <svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
   <g fill="#e91e63">
-    <circle cx="60" cy="120" r="10" />
-    <circle cx="180" cy="120" r="10" />
+    <circle cx="60" cy="120" r="8" />
+    <circle cx="180" cy="120" r="8" />
   </g>
 </svg>
